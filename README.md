@@ -17,3 +17,7 @@
 * lego_figures: multiclass classification
    * data: https://www.kaggle.com/ihelon/lego-minifigures-classification
    * The purpose of this repository is to compare Tensorflow with PyTorch
+
+* plant classification: multiclass classification
+  * data: https://www.kaggle.com/datasets/vbookshelf/v2-plant-seedlings-dataset/code
+  * An end-to-end notebook for image classification using PyTorch using transfer learning
